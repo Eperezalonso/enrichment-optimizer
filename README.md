@@ -61,7 +61,3 @@ On a 200-lead synthetic pool with a $0.2142 daily budget:
 | Dynamic programming (exact) | $93,305 | 100.00% |
 
 See the report for convergence plots, parameter sensitivity, and scaling behavior.
-
-## Spec
-
-The original build spec is preserved in `SPEC.md` for reference.
